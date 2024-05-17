@@ -1,6 +1,10 @@
 # Survival50
 Final Project for Harvard´s CS50G course
 
+<a href="https://youtu.be/uAVl8xoRifk">
+    <img alt="Flaticon" title="Flaticon" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" width="30">
+</a>
+
 # Core Mechanics
 
 **Wave-based Survival**: This is the core gameplay loop where players fight off increasingly difficult waves of zombies for as long as possible.
